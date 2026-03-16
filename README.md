@@ -37,7 +37,7 @@ Run the following commands in your terminal to set up the environment:
 1. **Clone the repository**
 ```DOS
 git clone https://github.com/jcarlo0118/LocalizedEcosystemHub.git
-cd NonniBot2026
+cd LocalizedEcosystemHub
 ```
 
 2. **Enable virtual enviroment**
@@ -60,7 +60,7 @@ Run the following commands in your terminal to set up the environment:
 1. **Clone the repository**
 ```bash
 git clone https://github.com/jcarlo0118/LocalizedEcosystemHub.git
-cd NonniBot2026
+cd LocalizedEcosystemHub
 ```
 
 2. **Enable virtual enviroment**
